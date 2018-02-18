@@ -40,6 +40,6 @@ main()
 			last[str[i-1]]=i;
 		}
 		cout<<(dp[n])%1000000007<<endl;
-
+		
 	}
 }
