@@ -1,3 +1,22 @@
+/*
+Find the number of distinct subsequence in the string.
+
+Input:
+3
+AAA
+ABCDEFG
+CODECRAFT
+
+
+Output:
+4
+128
+496
+
+Explanation:
+Test case 1:
+	{},{A},{A,A},{A,A,A} so answer is 4 
+*/
 #include <bits/stdc++.h>
 #define ll long long 
 using namespace std;
